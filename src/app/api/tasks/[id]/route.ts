@@ -25,4 +25,4 @@ export const GET = async (
   }
 };
 
-export const dynamic = "force-daynamic";
+export const dynamic = "force-dynamic";
